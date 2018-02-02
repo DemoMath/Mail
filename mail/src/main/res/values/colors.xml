@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="mail_c_333333">#333333</color>
+    <color name="mail_c_3D88E4">#3D88E4</color>
+    <color name="mail_c_000000">#000000</color>
+    <color name="mail_c_EAEAEA">#EAEAEA</color>
+    <color name="mail_c_666666">#666666</color>
+    <color name="mail_c_3B6DFF">#3B6DFF</color>
+    <color name="mail_c_503B6DFF">#803B6DFF</color>
+    <color name="mail_c_FFFFFF">#FFFFFF</color>
+    <color name="mail_c_F5F5F5">#F5F5F5</color>
+    <color name="mail_c_999999">#999999</color>
+    <color name="mail_c_4F9F00">#4F9F00</color>
+    <color name="mail_c_784D4D4D">#C74D4D4D</color>
+    <color name="mail_c_030303">#030303</color>
+    <color name="mail_c_ECECEC">#ECECEC</color>
+    <color name="mail_c_E2E2E2">#E2E2E2</color>
+    <color name="mail_c_20000000">#33000000</color>
+    <color name="mail_c_21979797">#21979797</color>
+    <color name="mail_c_60000000">#99000000</color>
+    <color name="mail_submit_btn_enable">#FF3587F2</color>
+    <color name="mail_submit_btn_unenable">#4D3587F2</color>
+    <color name="mail_submit_btn_press">#3374C7</color>
+    <color name="mail_c_50000000">#7D000000</color>
+    <color name="mail_c_70000000">#70000000</color>
+</resources>
