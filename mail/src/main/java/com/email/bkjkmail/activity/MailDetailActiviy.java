@@ -14,6 +14,7 @@ import butterknife.ButterKnife;
 
 /**
  * Created by wudi on 2018/1/30.
+ * 邮箱详情信息
  */
 public class MailDetailActiviy extends MailBaseActivity {
     public static final String MAIL_BEAN = "MAIL_BEAN";
