@@ -6,7 +6,8 @@ package com.email.bkjkmail.utils;
  */
 public class MailConstant {
 
-
+    public static final String READ = "READ";
+    public static final String WRITE = "WRITE";
 
 
 }
