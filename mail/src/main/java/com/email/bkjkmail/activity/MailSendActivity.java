@@ -7,6 +7,7 @@ import com.email.bkjkmail.R;
 
 /**
  * Created by wudi on 2018/1/30.
+ * 发送邮箱
  */
 
 public class MailSendActivity extends MailBaseActivity {

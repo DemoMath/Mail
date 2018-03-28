@@ -14,6 +14,7 @@ import java.util.List;
 
 /**
  * Created by wudi on 2018/1/30.
+ * 邮件列表数据适配器
  */
 public class MailListRlvAdapter extends MailBaseRlvAdapter<MailBean,MailListRlvAdapter.MailListRlvHolder> {
 
