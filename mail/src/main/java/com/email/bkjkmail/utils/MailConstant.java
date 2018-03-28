@@ -8,6 +8,8 @@ public class MailConstant {
 
     public static final String READ = "READ";
     public static final String WRITE = "WRITE";
+    public static final String LOAD = "LOAD";
+    public static final String WITE = "WITE";
 
 
 }
