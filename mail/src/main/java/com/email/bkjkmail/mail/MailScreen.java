@@ -39,9 +39,9 @@ public class MailScreen {
         this.mimeMessage = mimeMessage;
     }
 
-    public void setMimeMessage(MimeMessage mimeMessage) {
-        this.mimeMessage = mimeMessage;
-    }
+//    public void setMimeMessage(MimeMessage mimeMessage) {
+//        this.mimeMessage = mimeMessage;
+//    }
 
     /**
      * 获得发件人的地址和姓名
