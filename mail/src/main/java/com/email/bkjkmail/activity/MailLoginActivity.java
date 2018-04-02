@@ -18,9 +18,6 @@ import com.email.bkjkmail.mail.MailConfig;
 import com.email.bkjkmail.mail.MailOptions;
 import com.email.bkjkmail.utils.MailLogger;
 
-import java.util.ArrayList;
-import java.util.List;
-
 import javax.mail.event.ConnectionEvent;
 import javax.mail.event.ConnectionListener;
 

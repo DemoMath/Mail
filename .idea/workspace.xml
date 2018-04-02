@@ -10,7 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fdf80818-8cc0-4189-b075-74d32b6d5c50" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/utils/MailConstant.java" afterPath="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/utils/MailConstant.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/activity/MailLoginActivity.java" afterPath="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/activity/MailLoginActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/MailAccountDao.java" afterPath="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/MailAccountDao.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,16 +36,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DaoMaster.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/DaoMaster.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="DaoSession.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/DaoSession.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,8 +49,18 @@
       <file leaf-file-name="MailAccountDao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/MailAccountDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="192">
+              <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MailLoginActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/activity/MailLoginActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="99" column="8" lean-forward="true" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -98,7 +100,7 @@
         <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/mail/MailOptions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+              <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -107,18 +109,18 @@
       <file leaf-file-name="MailScreen.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/mail/MailScreen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="480">
               <caret line="53" column="29" lean-forward="false" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MailConstant.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MailConstant.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/utils/MailConstant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+            <state relative-caret-position="225">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1909,6 +1911,8 @@
         <option value="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/adapter/MailListRlvAdapter.java" />
         <option value="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/mail/MailScreen.java" />
         <option value="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/utils/MailConstant.java" />
+        <option value="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/MailAccountDao.java" />
+        <option value="$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/activity/MailLoginActivity.java" />
       </list>
     </option>
   </component>
@@ -1932,6 +1936,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1947,8 +1952,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2273,6 +2276,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -2365,7 +2369,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522205763056" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522643953710" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2412,7 +2416,7 @@
         <option name="ADVANCED_PROFILING_ENABLED" value="false" />
       </Profilers>
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522205763056" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522643953710" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2573,7 +2577,7 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method>
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522205763057" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1522643953711" />
       </method>
     </configuration>
     <list size="1">
@@ -2656,14 +2660,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/DaoMaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mail/src/main/res/layout/activity_email_login.xml">
       <provider editor-type-id="android-designer2">
         <state />
@@ -2987,14 +2983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/activity/MailLoginActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="48" column="46" lean-forward="false" selection-start-line="48" selection-start-column="46" selection-end-line="48" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/activity/MailHomeActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -3059,14 +3047,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/MailAccountDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/MailInfoDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -3094,14 +3074,14 @@
     <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/mail/MailOptions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
+          <caret line="40" column="14" lean-forward="false" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/mail/MailScreen.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="480">
           <caret line="53" column="29" lean-forward="false" selection-start-line="53" selection-start-column="29" selection-end-line="53" selection-end-column="29" />
           <folding />
         </state>
@@ -3117,8 +3097,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/utils/MailConstant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/android-sdk/sources/android-26/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="555" column="26" lean-forward="true" selection-start-line="555" selection-start-column="26" selection-end-line="555" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/db/MailAccountDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="43" column="37" lean-forward="false" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mail/src/main/java/com/email/bkjkmail/activity/MailLoginActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="415">
+          <caret line="99" column="8" lean-forward="true" selection-start-line="99" selection-start-column="8" selection-end-line="99" selection-end-column="26" />
           <folding />
         </state>
       </provider>
